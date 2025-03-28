@@ -5,3 +5,5 @@ class Cards extends HTMLElement{
   // Tarjetas de oferta
 }
 
+customElements.define ("Cards", Cards);
+
